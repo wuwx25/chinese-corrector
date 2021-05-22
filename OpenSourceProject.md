@@ -6,4 +6,4 @@
     
     - 使用bert的mask language model预测一句话中的某个字，取前5个最有可能的结果。
     - 如果预测的结果是原来的字则忽略，如果不是原来的字，就用pypinyin检测和原来的字拼音相似的结果作为纠正结果。 
-    - 测试效果可见[文档](url)。
+    - 测试效果可见[文档](http://192.168.0.202/wuwx/chinese-corrector/-/blob/master/Open_Source_project/bert_chinese.md)。
