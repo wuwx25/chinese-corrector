@@ -20,7 +20,7 @@
         
 3. bert
     - 中文文本fine-tuned3轮后的预训练BERT MLM模型。
-    - 纠错效果可圈可点，优于kemln模型，并且识别出来的都是真正的错误。
+    - 纠错效果可圈可点，优于kenlm模型，并且识别出来的都是真正的错误。
         
         ![image](docs/bert.png)
 
