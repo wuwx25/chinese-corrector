@@ -1,10 +1,20 @@
 # pycorrector
 
 1. kenlm
+    - kenlm统计语言模型工具，规则方法，语言模型纠错，利用混淆集，扩展性强。
+    - 测试效果如下：
 
-![image](docs/kenlm.png)
+        ![image](docs/kenlm.png)
+
+        - 结果并不理想，只能找到一个简单错误“桥礅”。
 
 
 2. macbert
+    - 来自哈工大SCIR实验室2020年的工作，改进了BERT模型的训练方法，使用全词掩蔽和N-Gram掩蔽策略适配中文表达，和通过用其相似的单词来掩盖单词，从而缩小训练前和微调阶段之间的差距。
+    - 测试效果如下：
 
-![image1](docs/macbert.png)
+        ![image1](docs/macbert.png)
+        
+        - 效果差，没有找出任何错误。
+        
+        
