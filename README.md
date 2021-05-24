@@ -3,5 +3,5 @@
 
 - 相关的开源项目收集汇总在[这里](http://192.168.0.202/wuwx/chinese-corrector/-/blob/master/OpenSourceProject.md)。
 - 数据集的文件夹可见[这里](http://192.168.0.202/wuwx/chinese-corrector/-/tree/master/Dataset)，数据集的说明文档可见[这里](url)。
-- 相关论文点击[这里](#论文)。
+- 相关论文点击[这里](http://192.168.0.202/wuwx/chinese-corrector/-/tree/master/Paper)。
 
