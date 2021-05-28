@@ -12,4 +12,4 @@
 3. HeadFilt
     - 该论文是学术界的一篇中文纠错论文，在中文公开纠错数据集上取得了不错的效果。
     - 纠错模块分两部分：第一部分是基于bert的base模型，输出可能纠错后的结果，第二部分是一个filter模块，主要基于treeLSTM模型学习出字的hierarchical embedding，通过向量相似度衡量两个字的相似度，取代了预先设定好的混淆集并且可以通过模型的自适应学习，发现字与字之间新的混淆关系能力，通过filter模块，进一步过滤bert模型的过纠等问题，提高准确率。
-    - 测试效果可见[文档]()
+    - 测试效果可见[文档](http://192.168.0.202/wuwx/chinese-corrector/-/blob/master/Open_Source_project/HeadFilt.md)
