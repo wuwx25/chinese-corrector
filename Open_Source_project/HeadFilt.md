@@ -5,6 +5,6 @@
         3. 为了逃生，这个人展现了极强的求笙欲。  
         
 
-        ![image](docs/HeadFilt.png)
+        ![image](../docs/HeadFilt.png)
     
     - 对于单个字的错误能够较好的检测并且改正，但是对于用词不当的错误没有效果。
