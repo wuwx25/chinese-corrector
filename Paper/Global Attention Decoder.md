@@ -20,4 +20,6 @@
 
 总而言之，本文认为以上的一些策略能够使得训练出来的bert模型更加适用于CSC任务，也就是文中所说的“缩近bert和CSC的距离”。
 
-#### 
+#### Global Attention Decoder
+
+
